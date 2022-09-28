@@ -17,7 +17,7 @@ I am a recent graduate at the University of Calgary with a B.Sc. in astrophysics
 During my degree I focused on data science and computational physics. 
 This lead me to a career in the tech industry where I am currently a software testing engineer.
 
-
+### Tools I use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -30,4 +30,6 @@ This lead me to a career in the tech industry where I am currently a software te
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
 </div>
 
+<div align=center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatHarrison&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
