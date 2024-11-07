@@ -15,7 +15,9 @@
 I am a graduate at the University of Calgary with a B.Sc. in astrophysics. I am a motivated individual who adapts well to new challenges and strives to always be learning.
 
 During my degree I focused on data science and computational physics. 
-This lead me to a career in the tech industry where I am currently a software testing engineer.
+This lead me to a career in the tech industry where I have over two years of experience as a automation software engineer.
+
+I am currently a student of an Applied GIS Bachelors degree looking for a spatial analyst role.
 
 ### Tools I use:
 <div>
